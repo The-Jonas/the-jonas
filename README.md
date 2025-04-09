@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome internet adventurers! 🧭
 
 <!--
 **The-Jonas/the-jonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=the-jonas&show_icons=true&theme=transparent&card_width=400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-jonas&layout=compact&theme=transparent&card_width=400" />
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jon-Js" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/ >
+  <img align="center" alt="Jon-Js" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> 
+</div>
