@@ -1,4 +1,9 @@
-## Welcome internet adventurers! 🧭
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4E51B6&center=true&vCenter=true&width=435&lines=Welcome,+internet+adventurer!;Hello%2C+my+name+is+Jo%C3%A3o+Victor.;I'm+a+Computer+Science+student." alt="Typing SVG" /></a>
+</p> 
+
+
 
  <div style="margin-top: 10px" align="center">
   <a href="https://github.com/The-Jonas">
@@ -6,7 +11,9 @@
    <img height="180em" align="center" alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Jonas&theme=nightowl&show_icons=true&hide_border=false&layout=compact" />
 </div>
 
-<div style="margin-top: 10px"></div>
+---
+
+<h3 align="center">🔹 My Programming Tecnologies 🔹</h3>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Jon-Js" height="60" width="60" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
@@ -21,6 +28,8 @@
   <img align="center" alt="Jon-Js" height="60" width="60" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb">
 
 </div>
+
+---
 
 <div style="margin-top: 10px"></div>
 <br>
