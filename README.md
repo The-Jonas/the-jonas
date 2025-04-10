@@ -9,8 +9,8 @@
 <div style="margin-top: 10px"></div>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Jon-Js" height="60" width="60" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
   <img align="center" alt="Jon-Js" height="60" width="60" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
+  <img align="center" alt="Jon-Js" height="60" width="60" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
   <img align="center" alt="Jon-Js" height="60" width="60" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
   <img align="center" alt="Jon-TS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Jon-C" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
