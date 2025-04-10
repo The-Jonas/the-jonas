@@ -41,6 +41,6 @@
 ##
 
 <div align="center>
-  <img src="https://raw.githubusercontent.com/The-Jonas/the-jonas/output/snake.svg" alt="Snake animation" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/The-Jonas/the-jonas/output/github-contribution-grid-snake.svg" />
 </div>
 
