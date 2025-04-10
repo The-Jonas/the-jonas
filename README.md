@@ -1,9 +1,9 @@
 ## Welcome internet adventurers! 🧭
 
  <div style="margin-top: 10px" align="center">
-  <a href="https://github.com/BrunoHDuarte2">
-   <img height="180em" align="center" alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api?username=The-Jonas&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
-   <img height="180em" align="center" alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Jonas&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
+  <a href="https://github.com/The-Jonas">
+   <img height="180em" align="center" alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api?username=The-Jonas&theme=nightowl&show_icons=true&hide_border=false&count_private=true" />
+   <img height="180em" align="center" alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Jonas&theme=nightowl&show_icons=true&hide_border=false&layout=compact" />
 </div>
 
 <div style="margin-top: 10px"></div>
